@@ -19,11 +19,11 @@ a{
     color: rgb(168, 168, 0);
 }
 
-p[draggable="true"]{
+li[draggable="true"]{
     color: green;
 }
 
-p[draggable="false"]{
+li[draggable="false"]{
     color: red;
 }
 
