@@ -4,7 +4,10 @@ html{
 
 *{
     color: rgb(0, 0, 128);
-    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
 }
 
 a{
@@ -35,4 +38,12 @@ li{
 
 .center{
     text-align: center;
+}
+
+.normal{
+    font-weight: normal;    
+}
+
+.img{
+    height: 500px;
 }
